@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Haythem
+Build-Jdk: 15.0.2
+Implementation-Title: Scol_A7
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.isetn
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Scol_A7
+Created-By: Maven Integration for Eclipse
+

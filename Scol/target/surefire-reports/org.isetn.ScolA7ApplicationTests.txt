@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.isetn.ScolA7ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.769 s - in org.isetn.ScolA7ApplicationTests
